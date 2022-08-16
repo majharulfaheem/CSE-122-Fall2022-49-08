@@ -1,3 +1,6 @@
+// codeforces problem no- 4A
+// problem name- watermelon
+
 #include<iostream>
 using namespace std;
 
